@@ -21,7 +21,7 @@ I am a Physics PhD Candidate @ Stanford University. I work on a particle physics
 * Korean (fluent)
 * Chinese (intermediate)
 
-:chart_with_upwards_trend: Skills
+### :chart_with_upwards_trend: Skills
 * Research
 * Data Analysis (statistics, machine learning)
 * Communication
