@@ -7,7 +7,7 @@
 I am a Physics PhD Candidate @ Stanford University. I work on a particle physics experiment called [**ATLAS**](https://atlas.cern/) located at [**CERN**](https://home.cern/).
 
 ### :mortar_board: Education
-* Stanford (Present)
+* Stanford University (Present)
 * University of Rochester (Class of 2017)
 
 ### :computer: Computer Languages
