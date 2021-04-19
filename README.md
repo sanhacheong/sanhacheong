@@ -4,11 +4,11 @@
 
 ## Sanha Cheong &mdash; Physicist in Training 👋
 
-I am a Physics PhD Candidate @ Stanford University. I work on a particle physics experiment called [**ATLAS**](https://atlas.cern/) located at [**CERN**](https://home.cern/).
+I mainly work a particle physics experiment called [**ATLAS**](https://atlas.cern/) located at [**CERN**](https://home.cern/). Recently, I also started working on another experiment called [**MAGIS-100**](https://news.fnal.gov/2019/09/magis-100-atoms-in-free-fall-to-probe-dark-matter-gravity-and-quantum-science/) located at [**Fermilab**](https://www.fnal.gov/).
 
 ### :mortar_board: Education
-* Stanford University (Present)
-* University of Rochester (Class of 2017)
+* PhD in Physics @ Stanford University (Present)
+* BS in Physics & Astronomy, BA in Mathematics @ University of Rochester (Class of 2017)
 
 ### :computer: Computer Languages
 * Python
