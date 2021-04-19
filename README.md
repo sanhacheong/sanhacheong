@@ -4,7 +4,7 @@
 
 ## Sanha Cheong &mdash; Physicist in Training 👋
 
-I mainly work a particle physics experiment called [**ATLAS**](https://atlas.cern/) located at [**CERN**](https://home.cern/). Recently, I also started working on another experiment called [**MAGIS-100**](https://news.fnal.gov/2019/09/magis-100-atoms-in-free-fall-to-probe-dark-matter-gravity-and-quantum-science/) located at [**Fermilab**](https://www.fnal.gov/).
+I mainly work a particle physics experiment called [**ATLAS**](https://atlas.cern/) located at [**CERN**](https://home.cern/). Recently, I also started working on another experiment called [**MAGIS-100**](https://news.fnal.gov/2019/09/magis-100-atoms-in-free-fall-to-probe-dark-matter-gravity-and-quantum-science/) which will be installed at [**Fermilab**](https://www.fnal.gov/).
 
 ### :mortar_board: Education
 * PhD in Physics @ Stanford University (Present)
